@@ -1,7 +1,16 @@
-### Hi there 👋
+# Hi! I'm Evelyn 👋
+
+I'm a senior at Worcester Polytechnic Institute studying computer science and minoring in data science and management information systems.
+
+Currrently, I am looking for full-time jobs in software development with an interest in frontend and UX. I love how I can be both creative and logical with the problems that software development offers. I also enjoy being able to provide great experiences for the people that get to use my code and designs. 
+
+### Skill Set
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
 
 <!--
-**evelyntrvn/evelyntrvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+add linkedin
+
 
 Here are some ideas to get you started:
 
